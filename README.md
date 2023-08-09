@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm AKASH DADOURIYA</h1>
 <h3 align="center">A passionate Full Stack Developer who always read to learn new technologies</h3>
 
+- 📫 How to reach me **Akasheducation100@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/12roN4F6uvPQ_5k3hok_3cVt09-dychwM?usp=drive_link](https://drive.google.com/drive/folders/12roN4F6uvPQ_5k3hok_3cVt09-dychwM?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/techskyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techskyak" height="30" width="40" /></a>
