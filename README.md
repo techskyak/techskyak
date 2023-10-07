@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **Akasheducation100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/12roN4F6uvPQ_5k3hok_3cVt09-dychwM?usp=drive_link](https://drive.google.com/drive/folders/12roN4F6uvPQ_5k3hok_3cVt09-dychwM?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/12roN4F6uvPQ_5k3hok_3cVt09-dychwM?usp=drive_link](https://techskyak.github.io/Akash-Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
